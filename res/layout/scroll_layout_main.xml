@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/left_screen"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="20dp" >
+
+    <Button
+        android:id="@+id/layout_2_screen"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="5dp"
+        android:paddingLeft="5dp"
+        android:text="@string/btn_2_screen" />
+
+    <Button
+        android:id="@+id/layout_2_screen_cover"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="5dp"
+        android:paddingLeft="5dp"
+        android:text="@string/btn_2_screen_cover" />
+
+    <Button
+        android:id="@+id/layout_2_screen_canvas"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="5dp"
+        android:paddingLeft="5dp"
+        android:text="@string/btn_2_screen_canvas" />
+
+    <Button
+        android:id="@+id/layout_3_screen"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="5dp"
+        android:paddingLeft="5dp"
+        android:text="@string/btn_3_screen" />
+    <Button
+        android:id="@+id/layout_3_screenwidth"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="5dp"
+        android:paddingLeft="5dp"
+        android:text="@string/btn_3_screenwidth" />
+    <Button
+        android:id="@+id/layout_3_screencover"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="5dp"
+        android:paddingLeft="5dp"
+        android:text="@string/btn_3_screencover" />
+    <Button
+        android:id="@+id/layout_3_screenautocover"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="5dp"
+        android:paddingLeft="5dp"
+        android:text="@string/btn_3_screenautocover" />
+    <Button
+        android:id="@+id/layout_3_screenauto"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="5dp"
+        android:paddingLeft="5dp"
+        android:text="@string/btn_3_screenauto" />
+
+</LinearLayout>

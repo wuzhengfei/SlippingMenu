@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SlippingMenu</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="menu1">Menu One</string>
+    <string name="menu2">Menu One</string>
+
+    
+    <string name="btn_2_screen">2 Screen</string>
+    <string name="btn_2_screen_cover">2 Screen Cover</string>
+    <string name="btn_2_screen_canvas">2 Screen Canvas</string>
+    <string name="btn_3_screen">3 Screen</string>
+    <string name="btn_3_screenwidth">3 Screen Width</string>
+    <string name="btn_3_screencover">3 Screen Cover</string>
+    <string name="btn_3_screenautocover">3 Screen Auto Cover</string>
+    <string name="btn_3_screenauto">3 Screen Auto</string>
+    
+    <string name="slide_navigation">Navigation</string>
+</resources>
